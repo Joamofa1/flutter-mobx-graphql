@@ -6,7 +6,7 @@ You can read more about it [here](https://codedash.dev/keeping-it-simple-integra
 
 <img src="https://user-images.githubusercontent.com/20706361/88471926-fa27f280-cf40-11ea-9e91-5b83ae8161d2.gif" style="width: 300px;"/>
 
-## Setup
+### Setup
 
 Clone the repo
 
